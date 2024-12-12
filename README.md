@@ -30,7 +30,7 @@ Libraries: Boost (optional, based on features).
 Building the Project
 
 Clone the repository:
-1. git clone https://github.com/yourusername/ClassScheduler.git  
+1. git clone : https://github.com/DarkHacker28/ClassScheduler
 
 2. cd ClassScheduler
 
